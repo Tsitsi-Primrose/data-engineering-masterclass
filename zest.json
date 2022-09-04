@@ -1,0 +1,83 @@
+{
+  "trip_id": "iawz3QCrmpSFpAFzyE3o",
+  "trip_status": "completed",
+  "trip_client_id": "YmuHJz2QrNqwznyG1Y9D",
+  "driver": {
+    "id": "ThHA7GpY5papbn5cqDW3",
+    "name": "Tsitsi M",
+    "email": "tsitsi@notcheckers.com",
+    "mobile_no": "+27839830886",
+    "vehicle_type": "car",
+    "on_active_trip": false,
+    "lunch": false,
+    "available": true,
+    "employee_code": "RYJ1234"
+  },
+  "order_id": "MkOLbNVO4l4ySKDlEmUU",
+  "order_client_id": "YmuHJz2QrNqwznyG1Y9D",
+  "order_no": "70056652",
+  "order_status": "delivered",
+  "alcohol": true,
+  "instructions": "",
+  "assignable": true,
+  "branch": {
+    "id": "U5swtfJIMC6FOoe2WpYS",
+    "name": "Bryanston",
+    "address": "22 Sloane St, Bryanston, Sandton, 2191, South Africa",
+    "location": {
+      "latitude": -26.04257,
+      "longitude": 28.01687
+    }
+  },
+  "customer": {
+    "name": "Tino Manhema",
+    "mobile_no": "+27839480104"
+  },
+  "customer_address": "Address",
+  "customer_location": {
+    "latitude": -26.042088,
+    "longitude": 28.016763
+  },
+  "expected_collection_time": "2021-01-22 11:30:00",
+  "expected_delivery_time": "2021-01-22 12:00:00",
+  "created_at": "2021-02-15 08:00:19",
+  "delivery_price": 0,
+  "payment_type": "n/a",
+  "origination": "api",
+  "sequence": 1,
+  "customer_geopoints": "{\"type\": \"Point\", \"coordinates\": [-26.042088, 28.016763]}",
+  "branch_geopoints": "{\"type\": \"Point\", \"coordinates\": [-26.04257, 28.01687]}",
+  "delivery_distance": 0.05465169587406154,
+  "trip_pending_timestamp": "2021-02-15 08:01:27",
+  "trip_accepted_timestamp": "2021-02-15 08:01:38",
+  "trip_arrived_at_collection_point_timestamp": "2021-02-15 08:01:40",
+  "trip_in_progress_timestamp": "2021-02-15 08:01:44",
+  "trip_completed_timestamp": "2021-02-15 08:01:53",
+  "order_pending_timestamp": "2021-02-15 08:00:19",
+  "order_clustering_timestamp": "2021-02-15 08:01:20",
+  "order_batched_timestamp": "2021-02-15 08:01:27",
+  "order_collected_timestamp": "2021-02-15 08:01:42",
+  "order_in_transit_timestamp": "2021-02-15 08:01:47",
+  "order_arrived_status": "2021-02-15 08:01:49",
+  "order_delivered_status": "2021-02-15 08:01:51",
+  "order_in_transit_location": {
+    "latitude": -26.0953785,
+    "longitude": 27.9750975
+  },
+  "order_arrived_location": {
+    "latitude": -26.0953785,
+    "longitude": 27.9750975
+  },
+  "order_delivered_location": {
+    "latitude": -26.0953785,
+    "longitude": 27.9750975
+  },
+  "driver_accept_trip_timestamp": "2021-02-15 08:01:38",
+  "order_abandoned_timestamp": "None",
+  "order_returned_timestamp": "None",
+  "order_cancelled_timestamp": "None",
+  "order_abandoned_location": "None",
+  "abandoned_reason": "None",
+  "time_from_store_to_customer": 0.11666666666666667,
+  "arrival_at_customer_geopoints": "{\"type\": \"Point\", \"coordinates\": [-26.0953785, 27.9750975]}"
+}

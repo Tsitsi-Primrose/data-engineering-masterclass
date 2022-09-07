@@ -1,4 +1,11 @@
-apache-beam
+wheel
+apache-beam[gcp]
 pandas
-beam-mysql-connector
-
+pandas_gbq
+google-cloud-bigquery
+google-cloud
+python-dotenv
+dbt-core
+dbt-bigquery
+kafka-python
+pika

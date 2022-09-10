@@ -111,7 +111,7 @@ with col1:
     # fig = df1.groupby('gender').age.plot(kind='kde')
     fig = plt.figure(figsize=(10, 4))
     sns.violinplot(brain_stroke_data['age'])
-    st.pyplot()
+    st.pyplot(fig)
 
 
 with col2: 
